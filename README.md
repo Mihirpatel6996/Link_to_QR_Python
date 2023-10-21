@@ -1,4 +1,5 @@
-# Link_to_QR_Python
+
+<h1 align="center">Welcome to Link_to_QR_Python 👋</h1>
 
 
 This is a simple Python application that generates QR codes for the given Link. You can enter a link, customize the QR code's foreground and background colors, and generate a QR code image.
@@ -52,6 +53,12 @@ The GUI window will appear with the following options:
 - After clicking "Generate QR Code," the QR code will be generated and saved as qr_code.png in the project folder.
 
 ## Screenshots
+
+![main page](https://github.com/Mihirpatel6996/Link_to_QR_Python/assets/96419193/974c061b-e505-4804-bbef-865c54956e86)
+![Selecting the Bg   Fg color](https://github.com/Mihirpatel6996/Link_to_QR_Python/assets/96419193/400953af-7de9-40c7-848f-0a799a499f38)
+![QR generated sucessfully](https://github.com/Mihirpatel6996/Link_to_QR_Python/assets/96419193/d30fb372-2095-4762-b4a1-819316563a64)
+![QR code](https://github.com/Mihirpatel6996/Link_to_QR_Python/assets/96419193/334db450-b4df-45bc-8b67-191082f38719)
+
 
 
 
